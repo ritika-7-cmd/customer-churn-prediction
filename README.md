@@ -30,18 +30,6 @@ End-to-end Machine Learning project to predict customer churn for a telecommunic
     └── evaluation files
 ```
 
-## How to Run
-
-1. Clone the repository
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the main script:
-   ```bash
-   python src/churn_prediction_project.py
-   ```
-
 ## Technologies Used
 
 - Python
@@ -52,4 +40,4 @@ End-to-end Machine Learning project to predict customer churn for a telecommunic
 
 ## Author
 
-Your Name
+Ritika Dubey
