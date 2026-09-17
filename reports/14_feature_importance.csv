@@ -1,0 +1,54 @@
+Feature,Importance
+AvgMonthlyCharge,0.938584993509212
+Contract_Two year,0.9265457667524968
+InternetService_Fiber optic,0.8719614214571647
+tenure,0.8361898884585802
+InternetService_DSL,0.7847598733967288
+Contract_Month-to-month,0.7468026590659871
+NumAdditionalServices,0.3517523277684705
+TotalCharges,0.3189378405074479
+OnlineBackup_No internet service,0.2884004605381605
+OnlineSecurity_No internet service,0.2884004605381605
+InternetService_No,0.2884004605381605
+StreamingTV_No internet service,0.2884004605381605
+TechSupport_No internet service,0.2884004605381605
+DeviceProtection_No internet service,0.2884004605381605
+StreamingMovies_No internet service,0.2884004605381605
+PaperlessBilling_No,0.2698458889168933
+StreamingMovies_Yes,0.2645413992877038
+StreamingTV_Yes,0.24957738893245332
+MultipleLines_No,0.2449501522889396
+MultipleLines_Yes,0.23948530296731957
+OnlineSecurity_No,0.2385843758069814
+PaymentMethod_Electronic check,0.22202600614109322
+Dependents_Yes,0.22030598612453522
+TechSupport_No,0.20206717881081981
+PhoneService_No,0.19573406315607902
+MultipleLines_No phone service,0.19573406315607902
+TenureGroup_13-24m,0.18904892474606774
+StreamingMovies_No,0.1773398512272552
+StreamingTV_No,0.16237584087199883
+MonthlyCharges,0.15929609678872106
+PaymentMethod_Bank transfer (automatic),0.15303275144312498
+OnlineSecurity_Yes,0.15138282774653486
+PaymentMethod_Credit card (automatic),0.13531350420676633
+PaymentMethod_Mailed check,0.13487866296890919
+TenureGroup_25-48m,0.13227967081705863
+OnlineBackup_No,0.12907591968743096
+Partner_No,0.1207388663984823
+gender_Female,0.11589173136166393
+TechSupport_Yes,0.11486563075037223
+TenureGroup_49-72m,0.1065080979982085
+gender_Male,0.08530718111604459
+Partner_Yes,0.08046004607923284
+PaperlessBilling_Yes,0.06864697643917816
+SeniorCitizen,0.05737074219093145
+DeviceProtection_No,0.054952769468597326
+OnlineBackup_Yes,0.04187437162697591
+DeviceProtection_Yes,0.032248778591849
+HighMonthlyCharge,0.022235855656190257
+Contract_One year,0.02145580479121362
+Dependents_No,0.019107073646830754
+IsFamily,0.01378366785288461
+TenureGroup_0-12m,0.013621585087212913
+PhoneService_Yes,0.005464849321633351
